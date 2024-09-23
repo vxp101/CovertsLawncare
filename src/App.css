@@ -1,0 +1,102 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-link {
+  color: #61dafb;
+
+}
+
+#logo {
+  width: 20pc;
+  height: 10pc;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 80%;
+  background-attachment: fixed;
+
+}
+
+.navigation {
+  height: 5pc;
+  width: 120px;
+  /* margin-right: 1pc; */
+  background: none;
+  border: none;
+  color: rgb(41, 62, 41);
+  transition: 1s;
+  font-size: 25px;
+  
+}
+
+.navigation:hover {
+  background-color: lightgreen;
+  transform: scale(1.3, 1.3);
+}
+
+#phone {
+  font-size: 2pc;
+  font-weight: bold;
+  margin-right: 20px;
+  margin-top: 18px;
+}
+
+
+#content-nav {
+  display: flex;
+}
+
+#framework {
+  
+}
+
+#framework Header {
+  background-color: rgba(124, 177, 80, 0.17);
+  width: 100%;
+  display: flex;
+  justify-content: end;
+
+}
+
+
+
+#AfterHeader{
+  right: 0;
+  width: 100%;
+  height: 30px;
+  z-index: 0;
+  /* background: linear-gradient(rgb(255, 255, 255), #202020); */
+}
+
+#frontyard {
+  height: 20%;
+  width: 100%;
+}
+
+body{
+  /* background-color: #202020; */
+  
+}
+
+@media only screen and (max-width: 799px) {
+  #logo {
+    display: none;
+  }
+
+  .navigation {
+    font-weight: bold;
+  }
+  
+}
