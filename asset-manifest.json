@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CovertsLawncare/static/css/main.a31d199e.css",
+    "main.js": "/CovertsLawncare/static/js/main.7f88bfff.js",
+    "static/js/453.8bfbada1.chunk.js": "/CovertsLawncare/static/js/453.8bfbada1.chunk.js",
+    "static/media/logo.svg": "/CovertsLawncare/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CovertsLawncare/index.html",
+    "main.a31d199e.css.map": "/CovertsLawncare/static/css/main.a31d199e.css.map",
+    "main.7f88bfff.js.map": "/CovertsLawncare/static/js/main.7f88bfff.js.map",
+    "453.8bfbada1.chunk.js.map": "/CovertsLawncare/static/js/453.8bfbada1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a31d199e.css",
+    "static/js/main.7f88bfff.js"
+  ]
+}
